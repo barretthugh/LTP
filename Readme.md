@@ -1,4 +1,5 @@
-docker images for LTP
+docker image for LTP
+TBD...
 
 github: https://github.com/HIT-SCIR/ltp</br>
 Language Technology Platform http://ltp.ai</br>
